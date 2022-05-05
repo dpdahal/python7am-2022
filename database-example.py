@@ -1,0 +1,5 @@
+connection = {
+    "username": '',
+    "password": '',
+    "key": ''
+}
