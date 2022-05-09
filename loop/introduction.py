@@ -11,6 +11,7 @@ In Python, iterable means an object can be used in iteration. The term is used a
 An adjective: An object may be described as iterable.
 A noun: An object may be characterized as an iterable.
 """
+
 # while loop: indefinite iteration
 # Example:
 
@@ -100,3 +101,46 @@ A noun: An object may be characterized as an iterable.
 # WAP to enter number of students enter
 # five subject marks and print total marks and average marks
 # of each student division wise
+
+
+# x = 10
+# while x > 0:
+#     print(x, end=" ")
+#     x -= 1
+
+
+# stop interation: break,continue
+# x = 1
+# while x <= 10:
+#     if x == 5:
+#         # print('5 is found')
+#         break
+#
+#     print(x, end=" ")
+#     x += 1
+
+
+# x = 0
+# while x < 10:
+#
+#     x += 1
+# #     if x == 1 or x == 4 or x == 9:
+#         continue
+#
+#     print(x, end=" ")
+
+
+# WAP to enter number of students
+# enter name
+
+# ram,anil,sita,gita,sophia
+
+# void
+
+# x = 10
+# y = 10
+# z = x
+#
+# print(id(x))
+# print(id(y))
+# print(id(z))
