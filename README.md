@@ -36,3 +36,20 @@
     5. pass
     6. nested loop
 
+## Functions
+    * Inbuilt function
+       1.abs()
+       2.all()
+       3.any()  
+       4.print()
+       5.len()
+    * User defined function
+
+
+## Module
+    * import
+    * from
+    * import as
+    * import *
+
+
