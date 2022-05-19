@@ -1,2 +1,3 @@
-ram ram002
-admin admin002
+ram ram
+sita sita
+hari hari
