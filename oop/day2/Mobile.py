@@ -13,10 +13,17 @@ class Mobile:
         return f'Price {price}'
 
 
-class Mi(Mobile):
+class Demo:
+    def __init__(self, company_name, location):
+        print("test")
+
+
+class Mi(Demo,Mobile):
     def __init__(self, company_name, logo):
         # Mobile.__init__(self, company_name)
-        super().__init__(company_name)
+        # super().__init__(company_name)
+        Demo.__init__(self, company_name, logo)
+        Mobile.__init__(self, company_name)
         print(logo)
 
     def memory(self, memory):
@@ -24,4 +31,4 @@ class Mi(Mobile):
 
 
 obj = Mi('Xiaomi', 'X')
-print(obj.brand('Xiaomi'))
+# print(obj.brand('Xiaomi'))

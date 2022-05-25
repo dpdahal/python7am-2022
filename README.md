@@ -37,6 +37,7 @@
     6. nested loop
 
 ## Functions
+
     * Inbuilt function
        1.abs()
        2.all()
@@ -45,8 +46,8 @@
        5.len()
     * User defined function
 
-
 ## Module
+
     * import
     * from
     * import as
@@ -55,6 +56,7 @@
 ## os sys
 
 # Exception Handling
+
     1. try
     2. except
     3. finally
@@ -62,6 +64,7 @@
     5. assert
 
 ## file handling
+
     1. open
     2. read
     3. write
@@ -90,6 +93,7 @@
     26. closed
 
 ## OOP
+
     1. class
     2. object
     3. instance
@@ -158,3 +162,30 @@
     66. __invert__
     67. __complex__
     68. __int
+
+## HTML
+
+    * Introduction  
+    * HTML Elements
+    * HTML Attributes
+    * image,vidoe,audio,map
+    * table,form
+
+## CSS
+    * introduction
+    * Templage Desing
+## Bootstrap
+    * Introduction
+
+## JavaScript
+    * Introduction
+    * Variables
+    * Data Types
+    * Operators
+    * Control Statements
+    * Loop Statements
+    * Functions
+    * Module
+    
+## Django
+    * Introduction
