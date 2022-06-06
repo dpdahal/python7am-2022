@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2153321a-95c8-4edc-b410-783534c7d408" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/class-works/Introduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/images/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/day3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-course/day1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-course/day1/introduction.css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-course/day2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-course/day2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-course/menu/css/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-course/menu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-course/templates/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-course/templates/images/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-course/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-course/templates/logo/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/students.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/table-templates.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/users.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/day2/Mobile.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/day2/Mobile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -47,22 +55,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/html/images" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/dp48d/Desktop/python7am/css-course/templates/images",
+    "list.type.of.created.stylesheet": "CSS",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dp48d\Desktop\python7am\css-course\templates\images" />
+      <recent name="C:\Users\dp48d\Desktop\python7am\css-course\templates" />
       <recent name="C:\Users\dp48d\Desktop\python7am\html\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dp48d\Desktop\python7am\css-course\templates\logo" />
+      <recent name="C:\Users\dp48d\Desktop\python7am\css-course\day1" />
+      <recent name="C:\Users\dp48d\Desktop\python7am\css-course\css" />
       <recent name="C:\Users\dp48d\Desktop\python7am\basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Introduction">
+  <component name="RunManager">
     <configuration name="Introduction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python7am" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,12 +122,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.Introduction" />
-        <item itemvalue="Python.main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -120,8 +131,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651803564242</updated>
+      <workItem from="1654136398847" duration="1684000" />
+      <workItem from="1654396054978" duration="2624000" />
+      <workItem from="1654445634112" duration="114000" />
+      <workItem from="1654482082939" duration="3030000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<blockquote>
+    <h1>Student Record</h1>
+    <hr>
+    <form action="" method="post">
+        <label for="name">Full Name</label> <br>
+        <input type="text" name="full_name" id="name"> <br>
+        <label for="email">Email</label> <br>
+        <input type="email" name="email" id="email"> <br>
+        <label>Gender</label> <br>
+        <label><input type="radio" name="gender" value="male"> Male</label>
+        <label><input type="radio" name="gender" value="female"> Female</label><br>
+        <label>Course</label> <br>
+        <label><input type="checkbox" name="course" value="python">Python</label>
+        <label><input type="checkbox" name="course" value="html">HTML</label>
+        <label><input type="checkbox" name="course" value="css">Css</label>
+        <label><input type="checkbox" name="course" value="javascript">JavaScript</label>
+        <br>
+        <label for="country">Country</label><br>
+        <select name="country" id="country">
+            <option selected disabled>----Select your country----</option>
+            <option value="nepal">Nepal</option>
+            <option value="china">China</option>
+            <option value="us">us</option>
+        </select>
+        <br>
+        <label for="dob">DOB</label><br>
+        <input type="date" id="dob"> <br>
+        <label for="image">Profile Picture</label><br>
+        <input type="file" id="image"><br>
+        <label for="description">Description</label><br>
+        <textarea id="description" rows="7" cols="25" style="resize: none"></textarea>
+        <br><br>
+        <button>Add Record</button>
+        <input type="reset" value="clear">
+    </form>
+</blockquote>
+
+</body>
+</html>

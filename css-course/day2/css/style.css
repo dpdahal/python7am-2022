@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.top-header{
+    width: 100%;
+    height: 80px;
+    background: gray;
+}
+
+.header-left{
+    width: 50%;
+    height: 70px;
+    background: red;
+    float: left;
+}
+
+.header-right{
+    width: 50%;
+    height: 70px;
+    background: #00d93c;
+    float: left;
+}
+
+.slider-section{
+    width: 70%;
+    height: 400px;
+    background: black;
+    float: left;
+}
+
+.news-right-section-top{
+    width: 30%;
+    height: 200px;
+    background: tomato;
+    float: right;
+}
+
+.news-right-section-btn{
+    width: 30%;
+    height: 200px;
+    background: #3600ff;
+    float: right;
+}
+
+.gallery-section-1{
+    width: 25%;
+    height: 100px;
+    background: red;
+    float: left;
+}
+.gallery-section{
+    width: 25%;
+    height: 100px;
+    background: #04a658;
+    float: left;
+}
+
+.footer-section{
+    width: 100%;
+    height: 150px;
+    background: #3600ff;
+    float: left;
+
+}
