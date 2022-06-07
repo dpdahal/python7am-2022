@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2153321a-95c8-4edc-b410-783534c7d408" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css-course/day1/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/day1/introduction.css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/day2/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/day2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/menu/css/menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/menu/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/templates/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/templates/images/s1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/templates/logo/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/students.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/table-templates.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-course/day1/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-course/day1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +17,7 @@
         <option value="Python Script" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -55,17 +43,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/dp48d/Desktop/python7am/css-course/templates/images",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dp48d/Desktop/python7am/css-course/templates/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dp48d\Desktop\python7am\css-course\templates\images" />
@@ -134,7 +123,9 @@
       <workItem from="1654136398847" duration="1684000" />
       <workItem from="1654396054978" duration="2624000" />
       <workItem from="1654445634112" duration="114000" />
-      <workItem from="1654482082939" duration="3030000" />
+      <workItem from="1654482082939" duration="3372000" />
+      <workItem from="1654518361696" duration="598000" />
+      <workItem from="1654568268968" duration="3845000" />
     </task>
     <servers />
   </component>
