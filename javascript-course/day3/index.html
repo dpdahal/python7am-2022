@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <blockquote>
+        <h1>Student Record</h1>
+        <div id="messages"></div>
+        <hr>
+        <form action="">
+            <input type="hidden" id="criteria">
+        name: <br>
+         <input type="text" id="name"> 
+         <div id="error_name"></div>
+         <br>
+        email: <br> <input type="text" id="email">
+        <div id="error_email"></div>
+        <br>
+        address: <br><input type="text" id="address">
+        <div id="error_address"></div>
+        <br>
+        <br>
+        <button id="addRecord">Add Record</button>
+    </form>
+<br><br>
+
+<input type="text" id="search_data" placeholder="Enter any keywords"> <br> <br>
+<table border="1" width="100%">
+    <thead>
+        <tr>
+            <th>S.n</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Address</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody id="showRecord">
+
+    </tbody>
+
+</table>
+    </blockquote>
+    
+    <script src="./js/custom.js"></script>
+</body>
+</html>
